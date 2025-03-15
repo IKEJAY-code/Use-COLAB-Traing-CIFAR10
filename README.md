@@ -1,0 +1,2 @@
+# Use-COLAB-Traing-CIFAR10
+记录使用COLAB来训练CIFAR-10的数据
