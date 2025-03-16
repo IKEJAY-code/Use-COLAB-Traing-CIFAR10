@@ -1,8 +1,8 @@
 ## 这份文档用来说明使用Colab训练CIFAR-10数据集的方法
-**该实例来自于阿斯顿·张、李沐的《动手学深度学习》**
-[点击此处跳转实例书籍页面](https://zh.d2l.ai/chapter_computer-vision/kaggle-cifar10.html)
-[点击此处查看Jupyter文档 和下载](../code/kaggle-cifar10.ipynb)
-**数据准备:由于程序运行,jupyter文档都有,我们主要是要将数据从kaggle下载到Colab中**
+**该实例来自于阿斯顿·张、李沐的《动手学深度学习》<p>**
+[点击此处跳转实例书籍页面](https://zh.d2l.ai/chapter_computer-vision/kaggle-cifar10.html)<p>
+[点击此处查看Jupyter文档 和下载](../code/kaggle-cifar10.ipynb)<p>
+**数据准备:由于程序运行,jupyter文档都有,我们主要是要将数据从kaggle下载到Colab中**<p>
 **1.我们先从kaggle下载数据集到电脑上面**
 **2.我们需要将数据上传到Colab中,由于直接在Colab里上传或者用网页版的谷歌硬盘上传大数据都会很慢,于是我们下载Google Drive客户端来加快上传速度**
 - 1.下载地址:https://www.google.com/drive/download/
