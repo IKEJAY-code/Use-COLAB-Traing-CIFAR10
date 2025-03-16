@@ -1,6 +1,8 @@
 # Use-COLAB-Traing-CIFAR10
 记录使用COLAB搭建环境,训练VGG11和训练CIFAR-10的数据
 
+[点击此处查看训练CIFAR-10的文档](Markdown/Traing-resnet-CIFAR-10.md)
+
 **1.在colab网址 https://colab.google/ 上open Colab**
 ![](image/1.jpg)
 
