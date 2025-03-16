@@ -147,3 +147,21 @@ sys.path.insert(0,"/content/gdrive/My Drive/python_package/")
 
 **训练完成,训练时长为15分3秒**
 ![](image/14.jpg)
+
+**解决自动掉线问题**
+```javascript
+直接在 Console 输入 allow pasting
+```
+```javascript
+function ClickConnect(){
+  console.log("Working"); 
+  document
+    .querySelector("#top-toolbar > colab-connect-button")
+    .shadowRoot
+    .querySelector("#connect")
+    .click()
+}
+ 
+setInterval(ClickConnect,1*60000)   //1 分钟点一次
+```
+
