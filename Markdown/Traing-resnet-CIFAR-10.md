@@ -48,9 +48,10 @@ unzip_file(test_zip_path, extract_to_path)
 **注意:这里的路径是我自己的路径,请根据自己的路径更改**
 
 **3.接下来我们就可以运行Jupyter文档中的代码了,这里是一个简单的ResNet-18模型,我们把它修改为Resnet-50,用来训练CIFAR-10数据集,经过测试,使用T4GPU,训练时间为25min左右.得到结果如下图**
+
 <p align="center">
-    <img src="../image/20.jpg" alt="Centered Image">
+    <img src="../image/20.jpg" alt="Centered Image" width="300">
 </p>
 <p align="center">
-    <img src="../image/21.jpg" alt="Centered Image">
-</p>
+    <img src="../image/21.jpg" alt="Centered Image" width="300">
+</p>    
